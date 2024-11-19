@@ -28,3 +28,6 @@ Member details (name and student ID) :
 li siyuan 20222101
 yang lijun 20222106
 dai yichen 20222119
+
+The URL of the deployed website:
+https://ayjpxcx.vercel.app/#/
